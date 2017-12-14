@@ -39,6 +39,6 @@ config :sling, Sling.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
   password: "postgres",
-  database: "sling_dev",
+  database: "slingdb",
   hostname: "localhost",
   pool_size: 10
